@@ -1,2 +1,2 @@
 # Rosalind Challenges
-Rosalind is a platform for learning bioinformatics through problem solving of many commonly encountered bioinformatics algorithmic challenges. The problems are divided in different categories including alignment, combinatorics, dynamic programming, genome assembly, genome rearrangment, graph algorithms, set theory, probability, sorting, heredity, phylogeny and many more. It's a great place to learn bioinformatics.
+Rosalind is a platform for learning bioinformatics through problem solving of many commonly encountered bioinformatics algorithmic challenges. 
